@@ -1,7 +1,5 @@
 # ArcadeGame
 
-## Project Overview
-
 This **Game** is developed using Object-oriented Javascript and HTML5 canvas. This is a complete HTML5 canvas game with the overlay menu being written to DOM.
 
 In this **Game** you have a Player and Enemies (Bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
