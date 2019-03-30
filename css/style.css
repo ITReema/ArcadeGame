@@ -1,0 +1,47 @@
+* {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+}
+
+body {
+    text-align: center;
+}
+
+p, ol{
+  color: gray;
+  position: absolute;
+  top: 200px;
+  left: 20px;
+  right: 900px;
+  font-size: 18px;
+  text-align: justify;
+  font-family: 'Maven Pro', sans-serif;
+  background-color: #F5F5F5;
+
+
+
+}
+
+#title {
+  font-size: 3em;
+  font-family: 'Hanalei Fill', cursive; 
+  background-color: gray;
+  text-transform: capitalize;
+  text-shadow: 3px 2px gray;
+  position: relative;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#info {
+  
+  color: gray;
+  font-size: 2em;
+  font-weight: bold;
+  position: absolute;
+  top: 160px;
+  left: 80px;
+  
+  
+}
